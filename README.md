@@ -1,1 +1,1 @@
-# Round-Robin---Thread-Scheduler
+# Round-Robin Thread Scheduler
