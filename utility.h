@@ -2,7 +2,7 @@
 #define UM_HEADER
 
 #include "circular_queue.h"
-#include "so_scheduler.h"
+#include "ts_scheduler.h"
 
 #define TS_INIT_ERROR 		 -10
 #define TS_INIT_SUCCESS		   0

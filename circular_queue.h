@@ -2,7 +2,7 @@
 #define CQ_HEADER
 
 #include <stdlib.h>
-#include "so_scheduler.h"
+#include "ts_scheduler.h"
 
 
 typedef struct circular_queue_node {
