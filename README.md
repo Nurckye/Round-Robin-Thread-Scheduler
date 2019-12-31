@@ -3,9 +3,9 @@ A thread scheduler based on the Round-Robin preemptive planning algorithm, writt
 
 The simulated environment uses a virtual time system that 'ticks' every time a logical instruction happens - the defined logical instructions are as follows: 
 
--ts_init
--ts_fork
--ts_wait
--ts_signal
--ts_exec
--ts_end
+- ts_init
+- ts_fork
+- ts_wait
+- ts_signal
+- ts_exec
+- ts_end
